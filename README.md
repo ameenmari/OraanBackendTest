@@ -28,8 +28,8 @@ A boilerplate/starter RESTful APIs using Node.js, Express, and Mongoose.
 Clone the repo:
 
 ```bash
-git clone https://github.com/hagopj13/node-express-mongoose-boilerplate.git
-cd node-express-mongoose-boilerplate
+git https://github.com/ameenmari/OraanBackendTest.git
+cd OraanTest
 ```
 
 Install the dependencies:
